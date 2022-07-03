@@ -9,9 +9,9 @@ Sou Técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual (Etec)
 ---
 - 🖥️ Atualmente no 2° Semestre
 - 📫 Meus Canais:
-ryan.alvesportela@gmail.com
-https://www.linkedin.com/in/ryan-alves-portela
-https://www.credly.com/users/ryan-portela
+- ryan.alvesportela@gmail.com
+- https://www.linkedin.com/in/ryan-alves-portela
+- https://www.credly.com/users/ryan-portela
 ---
 
 Tecnologias:

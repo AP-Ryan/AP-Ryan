@@ -1,9 +1,9 @@
 ### Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, sou Ryan Alves.
 
 ---
-🎓💻
-Estou cursando Sistemas de Informação no Centro Universitário Eniac. 
-🎓💻
+- 🎓💻
+Estou cursando Sistemas de Informação no Centro Universitário Eniac.
+- 🎓💻
 Sou Técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual (Etec) de Guarulhos. 
 
 ---

@@ -7,7 +7,7 @@ Estou cursando Sistemas de Informação no Centro Universitário Eniac.
 Sou Técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual (Etec) de Guarulhos. 
 
 ---
-- 🖥️ Atualmente no 3° Semestre
+- 🖥️ Atualmente no 5° Semestre
 - 📫 Meus Canais:
 - ryan.alvesportela@gmail.com
 - https://www.linkedin.com/in/ryan-alves-portela
